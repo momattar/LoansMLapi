@@ -4,9 +4,7 @@ A Flask-based REST API that detects fraudulent loan applications using a machine
 
 ## 🌐 Hosted API
 
-The API is deployed and live at:
 
-👉 [https://loansmlapi-production.up.railway.app](https://loansmlapi-production.up.railway.app)
 
 ## 📂 Project Overview
 
